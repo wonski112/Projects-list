@@ -7,7 +7,7 @@ Projects-list is a project that allows you to simply organize your projects work
 Make sure you are in the project root directory.
 
 You need to have installed NPM (Node Package Module) to work with this project.
-If you have it, run the following:
+If you have it done, run the following:
 
 ```bash
 $ npm i
