@@ -1,4 +1,4 @@
-# projects-list
+# Projects-list
 
 Projects-list is a project that allows you to simply organize your projects work with another team mates.
 
