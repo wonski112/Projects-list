@@ -2,7 +2,7 @@
 
 Projects-list is a project that allows you to simply organize your projects work with another team mates.
 
-##Usage
+## Usage
 
 Make sure you are in the project root directory.
 
@@ -24,4 +24,4 @@ To watch changes and compile it to JavaScript, use the following:
 ```bash
 $ tsc -w
 ```
-##License [MIT](https://choosealicense.com/licenses/mit/)
+## License [MIT](https://choosealicense.com/licenses/mit/)
