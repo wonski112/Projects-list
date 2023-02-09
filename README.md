@@ -10,18 +10,18 @@ You need to have installed NPM (Node Package Module) to work with this project.
 If you have it, run the following:
 
 ```bash
-npm i
+$ npm i
 ```
 
 To start the project, use the following:
 
 ```bash
-npm start
+$ npm start
 ```
 
 To watch changes and compile it to JavaScript, use the following:
 
 ```bash
-tsc -w
+$ tsc -w
 ```
 ##License [MIT](https://choosealicense.com/licenses/mit/)
